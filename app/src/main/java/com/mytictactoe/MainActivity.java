@@ -216,4 +216,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //commit 5
     }
 
+    public void commit6() {
+        //commit 6
+    }
+
 }
