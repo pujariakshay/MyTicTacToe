@@ -195,4 +195,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         player2Points = savedInstanceState.getInt("player2Points");
         player1Turn = savedInstanceState.getBoolean("player1Turn");
     }
+
+    public void commit1() {
+        //commit 1
+    }
+
 }
